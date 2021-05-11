@@ -1,7 +1,7 @@
 {
   "name": "Figma Slack updates",
   "description": "Post updates to Slack from a Figma file's version history",
-  "repository": "https://github.com/jordansinger/figma-slack-updates",
+  "repository": "https://github.com/dutello/figma-slack-updates",
   "logo": "https://github.com/jordansinger/figma-slack-updates/blob/master/images/logo.png?raw=true",
   "env": {
     "FIGMA_PERSONAL_ACCESS_TOKEN": {
