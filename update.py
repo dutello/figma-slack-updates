@@ -23,7 +23,7 @@ def get_updates():
 
 def format_message(todays_versions):
   date = datetime.datetime.today()
-  message = "Novidades do design system em" + str(date.day) + "/" +  str(date.month) + "\n"
+  message = "Novidades do design system em " + str(date.day) + "/" +  str(date.month) + "\n"
 
   for version in todays_versions:
     description = version["description"]
